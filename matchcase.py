@@ -1,0 +1,21 @@
+# num1=int(input("ENTER FIRST NO:"))
+# num2=int(input("ENTER SECOND NO:"))
+# operator=input("ENTER OPERATOR:")
+# match operator:
+#     case '+':print(num1+num2)
+#     case '-':print(num1-num2)
+#     case '*':print(num1*num2)
+#     case '/':print(num1/num2)
+#     case '//':print(num1//num2)
+#     case '%':print(num1%num2)
+#     case '**':print(num1**num2)
+
+# ext=input("Enter the extension:")
+# match ext:
+#     case 'py':print("Python file")
+#     case 'c':print("C file")
+#     case 'c++':print("C++ file")
+#     case 'html':print("HTML file")
+#     case 'jpg':print("Image file")
+#     case 'kee':print("Human")
+#     case _: print("Unkown file type")
